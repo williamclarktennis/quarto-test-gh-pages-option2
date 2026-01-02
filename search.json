@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site. Hello."
+    "text": "About this site. Hello. Making an edit without pushing to see if quarto publish gh-pages also pushes to the main branch, or if it even builds these new unpushed changes."
   },
   {
     "objectID": "index.html",
